@@ -1,7 +1,7 @@
 // Select some stuff I'll be using to customize meme's and appending them to the page
 const allInputs = document.querySelectorAll('input');
 const form = document.querySelector('form');
-const imgLocation = '/Users/ryan/portfolio/memeGenerator/imagePop/imagePop';
+const imgLocation = 'imagePop/imagePop';
 const removeButton = document.querySelector('.remove');
 const allButtons = document.getElementsByTagName('button');
 const newMemeDiv = document.getElementById('new');
